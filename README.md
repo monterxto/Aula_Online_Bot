@@ -11,6 +11,7 @@ O guia de como usar completamente e de maneira correta o bot é:
 		- https://obsproject.com/forum/resources/obs-virtualcam.949/
 		- https://www.vb-audio.com/Voicemeeter/banana.htm
 		- https://www.videolan.org/vlc/download-windows.pt-BR.html
+                
     Modulos (que precisam ser instalado):
 		- selenium
 		- youtube-dl
